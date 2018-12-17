@@ -1,2 +1,2 @@
 # high-concurrency
-并发安全，juc框架
+Java高并发学习
